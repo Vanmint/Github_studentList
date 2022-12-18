@@ -200,7 +200,7 @@ export default function Add() {
     return (
         <div>
             <Button variant="outlined" onClick={handleClickOpen}>
-                +
+                Add
             </Button>
             <Dialog
                 open={openForm}
